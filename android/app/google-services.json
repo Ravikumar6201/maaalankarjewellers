@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666890979479",
+    "project_id": "maaalankarjewellers-febc9",
+    "storage_bucket": "maaalankarjewellers-febc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666890979479:android:7ebdf24bdf7c728cdb01d2",
+        "android_client_info": {
+          "package_name": "com.jis.MaaAlankar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJF7PWYRnRymBQyvWNsQsHDcPOs4Wt-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "C:/Jharkhand_It_Solution_App/maa_alankar_jewellers/linux",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "lib/Login"
+    ],
+    "dart.flutterSdkPath": "C:\\src\\flutter"
+}
